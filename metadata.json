@@ -1,0 +1,6 @@
+{
+  "name": "MenoWell - Menopause Health & Daily Tracker",
+  "description": "Comprehensive menopause management platform supporting diet, emotional well-being, and sleep patterns with personalized daily trackers, clinical discussion guides, and AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
